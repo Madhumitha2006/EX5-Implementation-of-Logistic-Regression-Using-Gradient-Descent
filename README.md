@@ -62,7 +62,6 @@ print("Predicted Result:",y_prednew)
 ![image](https://github.com/user-attachments/assets/4a0ab3ee-405c-4019-a027-fe48ad083199)
 
 
-
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
